@@ -1,0 +1,3 @@
+# Media
+
+This is the media directory
